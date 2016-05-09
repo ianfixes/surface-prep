@@ -21,7 +21,7 @@ All the diagrams assume some base material (steel, wood, plastic, etc).  The dot
 ## How to Contribute
 
 I'm a novice at [d3](https://d3js.org/).
-I don't have a very good knowledge of chemicals for woodworking, metalworking, nor any of the wide range of plastics.
+I don't have a very good knowledge of the best practices for which chemicals to apply (and when) in woodworking, metalworking, nor for any of the wide range of plastics.
 I am happy for all the help I can get.
 
 * Send me an email with material/chemical suggestions at ifreecarve@gmail.com, (and be prepared to cite sources).
