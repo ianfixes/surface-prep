@@ -1,3 +1,5 @@
 src,chem,tgt
 plastic,water,water
 water,time,plastic
+plastic,soap,soap
+soap,water,water
