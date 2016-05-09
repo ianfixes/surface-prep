@@ -15,7 +15,8 @@
   function getParam() {
     var raw = location.search.substring(1);
 
-    return raw[raw.length - 1] == "/" ? raw.slice(0, -1) : raw; // hack for local http server
+    raw = raw[raw.length - 1] == "/" ? raw.slice(0, -1) : raw; // hack for local http server
+    return raw ? raw : Object.keys(surfaceData)[0];
   }
   var material = getParam();
 </script>
