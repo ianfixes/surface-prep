@@ -1,0 +1,27 @@
+src,chem,tgt
+bare steel,time,rust
+rust,wire brush, bare steel
+rust,evaporust, evaporust
+evaporust,acetone,acetone
+acetone, isopropanol, isopropanol
+bare steel, paste wax, wax buildup
+wax buildup, buffing wheel, wax
+wax buildup, wood dust, something gummy???
+bare steel, oil, oil
+oil, wood dust, something gummy???
+wet epoxy, acetone, acetone
+cyanoacrylate glue, acetone, acetone
+hot glue, acetone, acetone
+isopropanol, time, bare steel
+goo gone, isopropanol, isopropanol
+dykem,lacquer thinner, lacquer thinner
+dykem, acetone, acetone
+tar, lacquer thinner, lacquer thinner
+wet paint, mineral spirits, mineral spirits
+mineral spirits, TIME???, bare steel
+lacquer thinner, TIME???, bare steel
+wet alkyd paint, kerosene, kerosene
+kerosene, isopropanol, isopropanol
+acetone,reagent-grade acetone,reagent-grade acetone
+reagent-grade acetone, time, bare steel
+galvanization,hydrochloric acid, bare steel
