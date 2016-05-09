@@ -1,10 +1,11 @@
-# How to Prepare the Surfaces of Common Materials
+# [How to Prepare the Surfaces of Common Materials](http://ifreecarve.github.io/surface-prep/)
 
 You have a material (like wood, steel, plastic, etc), with something on it (rust, paint, grease, stickers, ants, etc).  You want it to have something different on it (paint, chrome, wax, grease, spiders, etc).  What do you apply to your material, and in what order?
 
 As of May 2016, the Internet was not very helpful on this topic -- either it worked backwards (e.g. "103949 uses for vinegar!"), or was very loose on the differences between mineral spirits and paint thinner, types of alchol, etc.
 
-My solution to that is this repository, specifically the infographics in `gh-pages`, [hosted on github](http://ifreecarve.github.io/surface-prep/).
+My solution to that is this repository, specifically the infographics in `gh-pages`:
+http://ifreecarve.github.io/surface-prep/
 
 
 ## How to Read These
