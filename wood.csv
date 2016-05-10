@@ -1,5 +1,19 @@
 src,chem,tgt
-shellac, methanol, bare wood
-shellac, lacquer thinner, bare wood
-lacquer, lacquer thinner, bare wood
+shellac, denatured alcohol, bare wood
+shellac, lacquer thinner, lacquer thinner
+lacquer, lacquer thinner, lacquer thinner
+lacquer thinner, sanding, bare wood
 grease, naphtha, bare wood
+shellac, sanding, bare wood
+bare wood, wood glue, wood glue
+paint, sanding, bare wood
+polyurethane, sanding, bare wood
+lacquer, sanding, bare wood
+alkyd paint, turpentine, turpentine
+turpentine, time, bare wood
+tar, turpentine, turpentine
+sap, turpentine, turpentine
+grease, turpentine, turpentine
+soot, acetone, acetone
+acetone, time, bare wood
+varnish, acetone, acetone
