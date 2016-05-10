@@ -79,7 +79,7 @@ var constructGraph = function(width, height, inputNodes, inputEdges, edgeLabelFn
            "y": function (d) { return d.y; },
            "class": "nodelabel",
            "stroke": "black"})
-    .style("font-size", "10pt")
+    .style("font-size", "12pt")
     .style("font-weight", "normal")
     .text(function (d) { return d.name; });
 
@@ -106,7 +106,7 @@ var constructGraph = function(width, height, inputNodes, inputEdges, edgeLabelFn
            'id': function (d, i) { return 'edgelabel' + i; },
            'dx': linkDistance * 0.4,
            'dy': 0,
-           'font-size': 10,
+           'font-size': 12,
            'fill': '#aaa'
           });
 
