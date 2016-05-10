@@ -8,6 +8,7 @@ So I made some diagrams to help me.
 
 ![Example diagram showing a graph with three nodes and four edges](http://ifreecarve.github.io/surface-prep/img/plastic-demo.png "Horribly incomplete diagram for plastic")
 
+See more here: http://ifreecarve.github.io/surface-prep/
 
 ## How to Read These
 
