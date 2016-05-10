@@ -107,7 +107,7 @@ var constructGraph = function(width, height, inputNodes, inputEdges, edgeLabelFn
            'dx': linkDistance * 0.4,
            'dy': 0,
            'font-size': 12,
-           'fill': '#aaa'
+           'fill': '#555'
           });
 
   edgelabels.append('textPath')
