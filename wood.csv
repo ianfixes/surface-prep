@@ -1,5 +1,6 @@
 src,chem,tgt
 shellac, ethanol, ethanol
+felt pen ink, ethanol, ethanol
 ethanol, time???, bare wood
 shellac, lacquer thinner, lacquer thinner
 lacquer, lacquer thinner, lacquer thinner
@@ -12,8 +13,10 @@ wood dust, brushing, bare wood
 wood dust, vacuuming, bare wood
 wood dust, tack cloth, bare wood
 grease, naphtha, naphtha
-naphtha, time???, bare wood
-bare wood, wood glue, wood glue
+wax, naphtha, naphtha
+naphtha, time, bare wood
+bare wood, yellow glue, yellow glue
+bare wood, white glue, white glue
 alkyd paint, turpentine, turpentine
 tar, turpentine, turpentine
 sap, turpentine, turpentine
@@ -26,3 +29,10 @@ varnish, acetone, acetone
 acetone, time, bare wood
 wax, mineral spirits, mineral spirits
 mineral spirits, time???, bare wood
+conversion varnish, toluene, toluene
+toluene, time, bare wood
+conversion varnish, xylene, xylene
+latex paint, xylene, xylene
+white glue, xylene, xylene
+yellow glue, xylene, xylene
+xylene, time, bare wood
