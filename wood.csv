@@ -3,25 +3,26 @@ shellac, ethanol, ethanol
 ethanol, time???, bare wood
 shellac, lacquer thinner, lacquer thinner
 lacquer, lacquer thinner, lacquer thinner
-grease, naphtha, naptha
-naptha, time???, bare wood
-bare wood, wood glue, wood glue
 lacquer thinner, sanding, wood dust
-shellac, sanding, wood dust
 paint, sanding, wood dust
 polyurethane, sanding, wood dust
 lacquer, sanding, wood dust
+shellac, sanding, wood dust
 wood dust, brushing, bare wood
 wood dust, vacuuming, bare wood
 wood dust, tack cloth, bare wood
+grease, naphtha, naptha
+naptha, time???, bare wood
+bare wood, wood glue, wood glue
 alkyd paint, turpentine, turpentine
-turpentine, time, bare wood
 tar, turpentine, turpentine
 sap, turpentine, turpentine
 grease, turpentine, turpentine
+varnish, turpentine, turpentine
+excess wax, turpentine, wax
+turpentine, time, bare wood
 soot, acetone, acetone
-acetone, time, bare wood
 varnish, acetone, acetone
+acetone, time, bare wood
 wax, mineral spirits, mineral spirits
 mineral spirits, time???, bare wood
-excess wax, turpentine, wax
